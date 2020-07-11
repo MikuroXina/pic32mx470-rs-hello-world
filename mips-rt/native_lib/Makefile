@@ -7,7 +7,7 @@
 # the object file patching with bbe is not needed.
 # The "Quoted section flags are deprecated" warning from pic32-gcc can be
 # ignored.
-CC=pic32-gcc
+CC=xc32-gcc
 
 LIB = libnative
 
